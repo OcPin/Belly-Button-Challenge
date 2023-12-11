@@ -2,8 +2,6 @@
 
 Assignment by: Octavio Pinedo
 
-App Dashboard Link: Belly Button Biodiversity Dashboard
-
 Belly Button Challenge (JavaScript, Plotly, D3.js)
 
 In this assignment, we built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
